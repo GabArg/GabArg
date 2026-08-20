@@ -1,90 +1,29 @@
-# Hola, soy Guido Bróccoli 👋
+# Guido A. Bróccoli
 
-Soy estudiante de **Licenciatura en Ciencia de Datos**, con foco en **Python, SQL, Power BI, Machine Learning y productos de datos**.
+**Data Analytics · Data Science · Python · SQL · Power BI · Optimization**
 
-Actualmente estoy desarrollando proyectos prácticos que combinan análisis de datos, automatización, machine learning y pensamiento de producto. Mi objetivo es transformar datos en decisiones claras, herramientas útiles e impacto medible para el negocio.
+I combine experience in operations and management with data and technology. My focus is understanding business problems, turning data into clear decisions, and building practical analytical and optimization tools.
 
----
+## Featured Projects
 
-## 🎯 En qué estoy enfocado
+### [Bonsai Box Optimizer](https://github.com/GabArg/bonsai-box-optimizer)
 
-- Análisis de datos y Business Intelligence
-- Python aplicado a ciencia de datos y automatización
-- SQL y modelado de datos
-- Fundamentos de Machine Learning
-- Dashboards y reportes en Power BI
-- Desarrollo de productos de datos con Next.js, Supabase y Python
+Packaging and logistics optimization solution developed for the **AlixPartners Data Challenge 2026**. It estimates **USD 21.16M in annual savings**, reduces the catalog from **204 to 46 box types** and removes **119,404 pallets**, while keeping **427/427 SKUs valid**. Built with Python, Streamlit, and Operations Research methods; final Kaggle score: **10.11098**.
 
----
+[View repository](https://github.com/GabArg/bonsai-box-optimizer) · [Open live app](https://bonsaiboxoptimizer-3rtpqrdquvekf59krruurw.streamlit.app/)
 
-## 🚀 Proyectos destacados
+### [Telecom X Churn Prediction](https://github.com/GabArg/telecomx-churn)
 
-### NodoQuant
+Machine Learning project for customer churn prediction, covering data preparation, feature selection, class balancing, model comparison, and business-oriented evaluation. The optimized Random Forest reached a **0.81 ROC-AUC**.
 
-Plataforma de inteligencia cuantitativa para traders.
+## Tools
 
-NodoQuant permite analizar si una estrategia de trading tiene una ventaja estadística real, utilizando métricas como win rate, profit factor, expectancy, drawdown, R-multiples y un Strategy Score personalizado.
+**Python · SQL · Pandas · Power BI · Excel · Streamlit · Machine Learning · Git/GitHub · AWS**
 
-**Stack:** Next.js, TypeScript, Python, Supabase, Tailwind CSS, Vercel
+## Background
 
----
+I am studying Data Science at university and have completed training through **AWS re/Start** and **Oracle ONE / Alura Latam**, alongside coursework in Python, SQL, Power BI, Data Analytics, and Machine Learning.
 
-### Telecom X Churn Prediction
+## Connect
 
-Proyecto de Machine Learning enfocado en predecir la evasión de clientes mediante limpieza de datos, análisis exploratorio, balanceo de clases, selección de variables y comparación de modelos.
-
-**Stack:** Python, Pandas, Scikit-learn, XGBoost, Jupyter Notebook
-
----
-
-### Challenge Telecom X
-
-Análisis exploratorio de datos orientado a entender los factores asociados a la cancelación de clientes.
-
-**Stack:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
-
----
-
-## 🛠️ Tecnologías
-
-**Lenguajes:**  
-Python · SQL · TypeScript · JavaScript
-
-**Datos y análisis:**  
-Pandas · NumPy · Scikit-learn · Power BI · Jupyter Notebook · Excel / Google Sheets
-
-**Web y producto:**  
-Next.js · React · Tailwind CSS · Supabase · Vercel
-
-**Herramientas:**  
-Git · GitHub · APIs · VS Code
-
----
-
-## 📚 Actualmente estudiando
-
-- Licenciatura en Ciencia de Datos
-- Cálculo
-- Álgebra Lineal
-- Probabilidad y Estadística
-- Algoritmos y Estructuras de Datos
-- Machine Learning aplicado
-
----
-
-## 📌 Intereses profesionales
-
-Estoy orientando mi perfil hacia posiciones como:
-
-- Data Analyst Junior
-- BI Analyst Junior
-- Data Scientist Junior
-- Data Engineer Trainee / Junior
-- Product/Data Analyst
-
----
-
-## 📫 Contacto
-
-- LinkedIn: [guido-a-broccoli](https://www.linkedin.com/in/guido-a-broccoli/)
-- Email: [guidobroccoli@hotmail.com](mailto:guidobroccoli@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/guido-a-broccoli) · [GitHub](https://github.com/GabArg)

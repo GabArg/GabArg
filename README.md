@@ -2,7 +2,16 @@
 
 **Data Analytics · Data Science · Python · SQL · Power BI · Optimization**
 
-I combine experience in operations and management with data and technology. My focus is understanding business problems, turning data into clear decisions, and building practical analytical and optimization tools.
+## About
+
+I combine experience in operations and business management with data and technology. My focus is turning real business problems into analytical tools, models, and decisions that create measurable impact.
+
+## Current Focus
+
+- Data Analytics and Business Intelligence
+- Machine Learning applied to business problems
+- Optimization and Operations Research
+- Data products and decision-support applications
 
 ## Featured Projects
 
@@ -16,7 +25,14 @@ Packaging and logistics optimization solution developed for the **AlixPartners D
 
 Machine Learning project for customer churn prediction, covering data preparation, feature selection, class balancing, model comparison, and business-oriented evaluation. The optimized Random Forest reached a **0.81 ROC-AUC**.
 
-## Tools
+## Highlights
+
+- Built an optimization solution estimating **USD 21.16M in annual savings**
+- Developed and deployed analytical applications with Streamlit
+- Experience translating operational challenges into measurable data problems
+- Training in AWS, Data Science, Python, SQL, and Power BI
+
+## Tech Stack
 
 **Python · SQL · Pandas · Power BI · Excel · Streamlit · Machine Learning · Git/GitHub · AWS**
 

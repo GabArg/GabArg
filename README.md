@@ -4,41 +4,54 @@
 
 ## About
 
-I combine experience in operations and business management with data and technology. My focus is turning real business problems into analytical tools, models, and decisions that create measurable impact.
-
-## Current Focus
-
-- Data Analytics and Business Intelligence
-- Machine Learning applied to business problems
-- Optimization and Operations Research
-- Data products and decision-support applications
+I combine extensive experience in operations and business management with data and technology. My focus is turning real business problems into analytical tools, models, and decisions that create measurable impact.
 
 ## Featured Projects
 
 ### [Bonsai Box Optimizer](https://github.com/GabArg/bonsai-box-optimizer)
 
-Packaging and logistics optimization solution developed for the **AlixPartners Data Challenge 2026**. It estimates **USD 21.16M in annual savings**, reduces the catalog from **204 to 46 box types** and removes **119,404 pallets**, while keeping **427/427 SKUs valid**. Built with Python, Streamlit, and Operations Research methods; final Kaggle score: **10.11098**.
+**Flagship project · Packaging & Logistics Optimization · Operations Research · Streamlit**
+
+Developed for the **AlixPartners Data Challenge 2026**, this decision-support solution optimizes packaging and logistics while validating every product assignment.
+
+- **USD 21.16M** estimated annual savings
+- **204 → 46** box types
+- **119,404** fewer pallets
+- **427/427** valid SKUs
+- Kaggle score: **10.11098**
 
 [View repository](https://github.com/GabArg/bonsai-box-optimizer) · [Open live app](https://bonsaiboxoptimizer-3rtpqrdquvekf59krruurw.streamlit.app/)
 
 ### [Telecom X Churn Prediction](https://github.com/GabArg/telecomx-churn)
 
-Machine Learning project for customer churn prediction, covering data preparation, feature selection, class balancing, model comparison, and business-oriented evaluation. The optimized Random Forest reached a **0.81 ROC-AUC**.
+**Machine Learning · Customer Churn · Business Analytics**
+
+Customer churn prediction project covering data preparation, feature selection, class balancing, model comparison, and business-oriented evaluation. The optimized Random Forest achieved a **0.81 ROC-AUC**.
+
+[View repository](https://github.com/GabArg/telecomx-churn)
 
 ## Highlights
 
-- Built an optimization solution estimating **USD 21.16M in annual savings**
-- Developed and deployed analytical applications with Streamlit
-- Experience translating operational challenges into measurable data problems
-- Training in AWS, Data Science, Python, SQL, and Power BI
+- Business-oriented analytics backed by hands-on operations and management experience
+- Built and deployed decision-support applications with Streamlit
+- Hands-on experience across Data Analytics, Machine Learning, and Optimization
+- AWS re/Start graduate and current Data Science university student
 
 ## Tech Stack
 
-**Python · SQL · Pandas · Power BI · Excel · Streamlit · Machine Learning · Git/GitHub · AWS**
+**Core:** Python · SQL · Pandas · Power BI · Excel
+
+**Tools & Platforms:** Streamlit · Git/GitHub · AWS
+
+**Methods:** Data Analytics · Machine Learning · Optimization / Operations Research
+
+## Current Focus
+
+Data Analytics · Business Intelligence · Machine Learning · Optimization · Data Products
 
 ## Background
 
-I am studying Data Science at university and have completed training through **AWS re/Start** and **Oracle ONE / Alura Latam**, alongside coursework in Python, SQL, Power BI, Data Analytics, and Machine Learning.
+Currently pursuing a university degree in Data Science, with additional training through **AWS re/Start** and **Oracle ONE / Alura Latam**.
 
 ## Connect
 
